@@ -2,3 +2,6 @@
 JAVA
 REST API
 HIBERNATE
+
+JPA 
+Spring
